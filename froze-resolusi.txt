@@ -3,4 +3,4 @@ FROZE RESOLUSI
 - Konsisten belajar MYSQL
 - Mahir dalam pengoperasian SIMRS Rumah Sakit
 - Sukses Bridging Aplikasi SIMRS Rumah Sakit dengan BPJS
-- Belajar lebih banyak dengan banyak Expert
+- Developer Website sendiri
