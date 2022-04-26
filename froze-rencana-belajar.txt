@@ -1,5 +1,5 @@
 Rencana Belajar Bahasa Pemrogaman
-JAVA
-PHP
+JAVA  : buat custom SIMRS sesuai kebutuhan
+PHP   : buat dukung SIMRS 
 MYSQL
 PHPMYADMIN
