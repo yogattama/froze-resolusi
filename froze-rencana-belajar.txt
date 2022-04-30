@@ -5,3 +5,4 @@ MYSQL
 PHPMYADMIN
 tambah materi lagi editing
 si fitur 1 nambah atau ngubah sesuatu
+comit ke dua bro
